@@ -34,6 +34,7 @@ namespace Assignment2_DIS_Spring2021
             Console.WriteLine("Question 5");
             string s5 = "korfsucy";
             int[] indices = { 6, 4, 3, 2, 1, 0, 5, 7 };
+            RestoreString(s5,indices);
             Console.WriteLine();
 
             //Question 6
